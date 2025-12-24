@@ -146,7 +146,7 @@ export default function Home() {
         {/* Background Image */}
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: 'url(/images/leistungen/hero-bg.svg)' }}
+          style={{ backgroundImage: 'url(/images/leistungen/hero-bg.PNG)' }}
         />
         {/* Dark Overlay */}
         <div className="absolute inset-0 bg-gradient-to-b from-primary-900/80 via-primary-900/70 to-primary-900/80" />
@@ -155,7 +155,7 @@ export default function Home() {
         <div className="relative z-10 container-custom text-center text-white py-32">
           {/* Logo */}
           <img
-            src="/images/allgemein/logo.svg"
+            src="/images/allgemein/Logo.JPG"
             alt="Sauer&Söhne Logo"
             className="h-32 md:h-40 lg:h-48 mx-auto mb-12 drop-shadow-2xl animate-fade-in"
           />
@@ -276,7 +276,7 @@ export default function Home() {
             </div>
             <div className="relative flex justify-center">
               <img
-                src="/images/leistungen/waermepumpe.svg"
+                src="/images/leistungen/waermepumpe.jpg"
                 alt="Moderne Wärmepumpe"
                 className="max-h-96 animate-float drop-shadow-2xl"
               />

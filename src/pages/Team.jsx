@@ -4,37 +4,37 @@ const teamMembers = [
   {
     name: 'Anjo Sauer',
     role: 'Geschäftsführer',
-    image: '/images/team/anjo-sauer.svg',
+    image: '/images/team/anjo-sauer.PNG',
     description: 'Als Gründer und Geschäftsführer leitet Anjo den Betrieb mit Leidenschaft und über 25 Jahren Erfahrung im Handwerk. Für ihn steht Qualität und Kundenzufriedenheit an erster Stelle.'
   },
   {
     name: 'Sandra Sauer',
     role: 'Backoffice & Organisation',
-    image: '/images/team/sandra-sauer.svg',
+    image: '/images/team/sandra-sauer.PNG',
     description: 'Sandra ist Ihre erste Ansprechpartnerin am Telefon. Sie koordiniert Termine, kümmert sich um die Buchhaltung und sorgt dafür, dass im Hintergrund alles reibungslos läuft.'
   },
   {
     name: 'Lukas Sauer',
     role: 'Meister & Bauleitung',
-    image: '/images/team/lukas-sauer.svg',
+    image: '/images/team/lukas-sauer.PNG',
     description: 'Als ausgebildeter Meister übernimmt Lukas die fachliche Leitung auf der Baustelle. Mit seinem geschulten Auge garantiert er höchste Ausführungsqualität.'
   },
   {
     name: 'Daniel Sauer',
     role: 'Innovation-Manager & CTO',
-    image: '/images/team/daniel-sauer.svg',
+    image: '/images/team/daniel-sauer.PNG',
     description: 'Daniel bringt frischen Wind ins Unternehmen. Er kümmert sich um moderne Technologien, digitale Prozesse und ist Experte für innovative Heizsysteme wie Wärmepumpen.'
   },
   {
     name: 'Nala',
     role: 'Monteurin',
-    image: '/images/team/nala.svg',
+    image: '/images/team/nala.PNG',
     description: 'Nala ist ausgebildete Anlagenmechanikerin und verstärkt unser Team bei Installationen und Servicearbeiten. Präzision und Sorgfalt zeichnen ihre Arbeit aus.'
   },
   {
     name: 'Olaf',
     role: 'Monteur',
-    image: '/images/team/olaf.svg',
+    image: '/images/team/olaf.PNG',
     description: 'Olaf bringt jahrelange Erfahrung mit und ist ein zuverlässiger Fachmann für alle Installationsarbeiten. Kein Problem ist ihm zu groß.'
   }
 ]
@@ -77,7 +77,7 @@ export default function Team() {
           <div className="mb-20">
             <div className="rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/images/team/gruppe.svg"
+                src="/images/team/gruppe.PNG"
                 alt="Das gesamte Team von Sauer&Söhne"
                 className="w-full h-auto object-cover"
               />

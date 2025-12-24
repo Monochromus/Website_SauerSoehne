@@ -23,7 +23,7 @@ export default function Footer() {
           {/* Logo & Slogan */}
           <div>
             <img
-              src="/images/allgemein/logo.svg"
+              src="/images/allgemein/Logo.JPG"
               alt="Sauer&Söhne Logo"
               className="h-16 mb-4 brightness-0 invert"
             />

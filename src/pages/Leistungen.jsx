@@ -6,7 +6,7 @@ const klassischeLeistungen = [
   {
     title: 'Neubau-Installationen',
     description: 'Komplette Haustechnik für Ihr neues Zuhause',
-    image: '/images/leistungen/sanitaer.svg',
+    image: '/images/leistungen/sanitaer.jpg',
     items: [
       'Komplette Sanitärinstallation',
       'Heizungsanlagen',
@@ -16,7 +16,7 @@ const klassischeLeistungen = [
   {
     title: 'Kundendienst & Reparaturen',
     description: 'Schnelle und zuverlässige Hilfe bei Problemen',
-    image: '/images/leistungen/heizung.svg',
+    image: '/images/leistungen/heizung.png',
     items: [
       'Schnelle Hilfe bei Rohrbrüchen',
       'Heizungsstörungen',
@@ -26,7 +26,7 @@ const klassischeLeistungen = [
   {
     title: 'Wartung & Inspektion',
     description: 'Vorsorge für Langlebigkeit und Sicherheit',
-    image: '/images/leistungen/sanitaer.svg',
+    image: '/images/leistungen/sanitaer.jpg',
     items: [
       'Regelmäßige Heizungswartung',
       'Sicherheitsprüfungen',
@@ -168,7 +168,7 @@ export default function Leistungen() {
           aria-label="Wärmepumpen-Anfrage stellen"
         >
           <img
-            src="/images/leistungen/waermepumpe.svg"
+            src="/images/leistungen/waermepumpe.jpg"
             alt="Wärmepumpe"
             className="w-48 h-auto animate-float-slow drop-shadow-xl"
           />

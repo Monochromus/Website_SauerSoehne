@@ -5,7 +5,7 @@ const projekte = [
     id: 1,
     title: 'Wärmepumpeninstallation Einfamilienhaus',
     description: 'Installation einer modernen Luft-Wasser-Wärmepumpe in einem Einfamilienhaus aus den 80er Jahren. Inklusive Fußbodenheizung und Smart-Home-Anbindung.',
-    image: '/images/referenzen/projekt-01.svg',
+    image: '/images/referenzen/projekt-01.jpg',
     ort: 'Schleswig',
     jahr: '2024',
     kategorie: 'Wärmepumpe'
@@ -14,7 +14,7 @@ const projekte = [
     id: 2,
     title: 'Komplette Badsanierung',
     description: 'Vollständige Modernisierung eines 25 m² großen Badezimmers mit bodengleicher Dusche, freistehender Badewanne und modernen Armaturen.',
-    image: '/images/referenzen/projekt-02.svg',
+    image: '/images/referenzen/projekt-02.jpg',
     ort: 'Husum',
     jahr: '2024',
     kategorie: 'Badsanierung'
@@ -23,7 +23,7 @@ const projekte = [
     id: 3,
     title: 'Wärmepumpe im Neubau',
     description: 'Planung und Installation einer Sole-Wasser-Wärmepumpe mit Erdsonden für einen Neubau. Optimale Abstimmung mit der Gebäudedämmung.',
-    image: '/images/referenzen/projekt-03.svg',
+    image: '/images/referenzen/projekt-03.jpg',
     ort: 'Rendsburg',
     jahr: '2024',
     kategorie: 'Wärmepumpe'
@@ -32,7 +32,7 @@ const projekte = [
     id: 4,
     title: 'Barrierefreies Badezimmer',
     description: 'Umbau eines Badezimmers zu einem barrierefreien Raum mit unterfahrbarem Waschtisch, Haltegriffen und ebenerdiger Dusche.',
-    image: '/images/referenzen/projekt-04.svg',
+    image: '/images/referenzen/projekt-04.jpg',
     ort: 'Flensburg',
     jahr: '2023',
     kategorie: 'Badsanierung'
@@ -41,7 +41,7 @@ const projekte = [
     id: 5,
     title: 'Heizungsmodernisierung Mehrfamilienhaus',
     description: 'Austausch einer 30 Jahre alten Ölheizung gegen eine moderne Gas-Brennwerttherme mit solarer Warmwasserunterstützung.',
-    image: '/images/referenzen/projekt-05.svg',
+    image: '/images/referenzen/projekt-05.jpg',
     ort: 'Eckernförde',
     jahr: '2023',
     kategorie: 'Heizung'
@@ -50,7 +50,7 @@ const projekte = [
     id: 6,
     title: 'Neubau-Komplettinstallation',
     description: 'Komplette Sanitär- und Heizungsinstallation für ein Einfamilienhaus-Neubau mit 180 m² Wohnfläche. Von der Planung bis zur Übergabe.',
-    image: '/images/referenzen/projekt-06.svg',
+    image: '/images/referenzen/projekt-06.jpg',
     ort: 'Schleswig',
     jahr: '2023',
     kategorie: 'Neubau'

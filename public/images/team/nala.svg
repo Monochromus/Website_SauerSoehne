@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500">
-  <rect fill="#fef3c7" width="400" height="500"/>
-  <circle fill="#fcd34d" cx="200" cy="180" r="80"/>
-  <rect fill="#fcd34d" x="120" y="280" width="160" height="120" rx="10"/>
-  <text x="200" y="430" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#b45309" text-anchor="middle">NALA</text>
-  <text x="200" y="460" font-family="Arial, sans-serif" font-size="14" fill="#d97706" text-anchor="middle">Monteurin</text>
-  <text x="200" y="485" font-family="Arial, sans-serif" font-size="12" fill="#f59e0b" text-anchor="middle">400x500px - nala.jpg</text>
-</svg>

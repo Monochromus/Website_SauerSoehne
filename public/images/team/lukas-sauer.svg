@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500">
-  <rect fill="#d1fae5" width="400" height="500"/>
-  <circle fill="#6ee7b7" cx="200" cy="180" r="80"/>
-  <rect fill="#6ee7b7" x="120" y="280" width="160" height="120" rx="10"/>
-  <text x="200" y="430" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#047857" text-anchor="middle">LUKAS SAUER</text>
-  <text x="200" y="460" font-family="Arial, sans-serif" font-size="14" fill="#059669" text-anchor="middle">Meister &amp; Bauleitung</text>
-  <text x="200" y="485" font-family="Arial, sans-serif" font-size="12" fill="#10b981" text-anchor="middle">400x500px - lukas-sauer.jpg</text>
-</svg>

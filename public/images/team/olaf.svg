@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500">
-  <rect fill="#fee2e2" width="400" height="500"/>
-  <circle fill="#fca5a5" cx="200" cy="180" r="80"/>
-  <rect fill="#fca5a5" x="120" y="280" width="160" height="120" rx="10"/>
-  <text x="200" y="430" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#b91c1c" text-anchor="middle">OLAF</text>
-  <text x="200" y="460" font-family="Arial, sans-serif" font-size="14" fill="#dc2626" text-anchor="middle">Monteur</text>
-  <text x="200" y="485" font-family="Arial, sans-serif" font-size="12" fill="#ef4444" text-anchor="middle">400x500px - olaf.jpg</text>
-</svg>
