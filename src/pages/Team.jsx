@@ -4,7 +4,7 @@ const teamMembers = [
   {
     name: 'Anjo Sauer',
     role: 'Geschäftsführer',
-    image: '/images/team/anjo-sauer.PNG',
+    image: '/images/team/anjo-sauer.png',
     description: 'Als Gründer und Geschäftsführer leitet Anjo den Betrieb mit Leidenschaft und über 25 Jahren Erfahrung im Handwerk. Für ihn steht Qualität und Kundenzufriedenheit an erster Stelle.'
   },
   {

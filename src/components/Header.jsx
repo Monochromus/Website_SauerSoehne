@@ -36,7 +36,7 @@ export default function Header() {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img
-              src="/images/allgemein/Logo.JPG"
+              src="/images/allgemein/logo.PNG"
               alt="Sauer&Söhne Logo"
               className={`transition-all duration-300 ${
                 scrolled ? 'h-12 md:h-16' : 'h-16 md:h-20'
