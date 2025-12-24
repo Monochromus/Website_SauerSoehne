@@ -1,0 +1,10 @@
+# Robots.txt für Sauer&Söhne Website
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.sauerundsoehne.de/sitemap.xml
+
+# Crawl-delay (optional)
+Crawl-delay: 1

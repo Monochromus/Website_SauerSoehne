@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#e0f2fe" width="800" height="600"/>
+  <rect fill="#7dd3fc" x="200" y="100" width="400" height="350" rx="15"/>
+  <rect fill="#38bdf8" x="280" y="180" width="100" height="150" rx="10"/>
+  <circle fill="#0ea5e9" cx="500" cy="280" r="60"/>
+  <text x="400" y="500" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0369a1" text-anchor="middle">PROJEKT 02</text>
+  <text x="400" y="535" font-family="Arial, sans-serif" font-size="16" fill="#0284c7" text-anchor="middle">Komplette Badsanierung</text>
+  <text x="400" y="565" font-family="Arial, sans-serif" font-size="12" fill="#38bdf8" text-anchor="middle">800x600px - projekt-02.jpg</text>
+</svg>

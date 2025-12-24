@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect fill="#f8fafc" width="200" height="100" rx="10"/>
+  <text x="100" y="45" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#64748b" text-anchor="middle">BOSCH</text>
+  <text x="100" y="70" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">Partner-Logo Platzhalter</text>
+  <text x="100" y="85" font-family="Arial, sans-serif" font-size="9" fill="#cbd5e1" text-anchor="middle">200x100px - partner-03.png</text>
+</svg>

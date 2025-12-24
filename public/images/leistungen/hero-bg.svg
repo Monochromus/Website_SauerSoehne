@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a"/>
+      <stop offset="50%" style="stop-color:#1e40af"/>
+      <stop offset="100%" style="stop-color:#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#heroGrad)" width="1920" height="1080"/>
+  <circle fill="#3b82f6" opacity="0.3" cx="300" cy="200" r="150"/>
+  <circle fill="#60a5fa" opacity="0.2" cx="1600" cy="800" r="200"/>
+  <circle fill="#93c5fd" opacity="0.15" cx="960" cy="540" r="300"/>
+  <text x="960" y="500" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">HERO HINTERGRUNDBILD</text>
+  <text x="960" y="560" font-family="Arial, sans-serif" font-size="24" fill="#bfdbfe" text-anchor="middle">Empfohlen: 1920x1080px</text>
+  <text x="960" y="600" font-family="Arial, sans-serif" font-size="18" fill="#93c5fd" text-anchor="middle">Stimmungsbild: Handwerker bei der Arbeit, Wärmepumpe, oder modernes Bad</text>
+  <text x="960" y="640" font-family="Arial, sans-serif" font-size="16" fill="#60a5fa" text-anchor="middle">hero-bg.jpg</text>
+</svg>

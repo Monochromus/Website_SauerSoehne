@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#fef3c7" width="800" height="600"/>
+  <rect fill="#fcd34d" x="250" y="100" width="300" height="350" rx="10"/>
+  <rect fill="#fbbf24" x="280" y="130" width="80" height="80" rx="5"/>
+  <rect fill="#fbbf24" x="440" y="130" width="80" height="80" rx="5"/>
+  <rect fill="#f59e0b" x="320" y="250" width="160" height="160" rx="5"/>
+  <text x="400" y="520" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#b45309" text-anchor="middle">HEIZUNG STIMMUNGSBILD</text>
+  <text x="400" y="555" font-family="Arial, sans-serif" font-size="14" fill="#d97706" text-anchor="middle">Empfohlen: 800x600px - Heizungsanlage, Brenner, Thermostat</text>
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" fill="#f59e0b" text-anchor="middle">heizung.jpg</text>
+</svg>
