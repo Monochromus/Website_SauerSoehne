@@ -72,7 +72,7 @@ export default function Datenschutz() {
               24869 Dörpstedt<br />
               <br />
               Telefon: 04621 / 123 456 78<br />
-              E-Mail: sauerundsoehne@t-online.de
+              E-Mail: info@example.com
             </p>
 
             <h2>3. Hosting</h2>

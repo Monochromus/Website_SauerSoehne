@@ -180,7 +180,7 @@ export default function Team() {
             Wir freuen uns immer über motivierte Verstärkung!
           </p>
           <a
-            href="mailto:sauerundsoehne@t-online.de?subject=Bewerbung"
+            href="mailto:info@example.com?subject=Bewerbung"
             className="btn-accent text-lg px-8 py-4"
           >
             Jetzt bewerben

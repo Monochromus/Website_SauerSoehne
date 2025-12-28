@@ -115,7 +115,7 @@ export default function Home() {
         "addressCountry": "DE"
       },
       "telephone": "+4946212345678",
-      "email": "sauerundsoehne@t-online.de",
+      "email": "info@example.com",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -155,7 +155,7 @@ export default function Home() {
         <div className="relative z-10 container-custom text-center text-white py-32">
           {/* Logo */}
           <img
-            src="/images/allgemein/logo.PNG"
+            src="/images/allgemein/logo-new.png"
             alt="Sauer&Söhne Logo"
             className="h-32 md:h-40 lg:h-48 mx-auto mb-12 drop-shadow-2xl animate-fade-in"
           />

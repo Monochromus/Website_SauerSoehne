@@ -48,7 +48,7 @@ export default function Impressum() {
             <h2>Kontakt</h2>
             <p>
               Telefon: 04621 / 123 456 78<br />
-              E-Mail: sauerundsoehne@t-online.de
+              E-Mail: info@example.com
             </p>
 
             <h2>Umsatzsteuer-ID</h2>

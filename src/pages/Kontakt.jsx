@@ -117,7 +117,7 @@ export default function Kontakt() {
                   E-Mail
                 </h3>
                 <a
-                  href="mailto:sauerundsoehne@t-online.de"
+                  href="mailto:info@example.com"
                   className="flex items-center gap-4 p-4 bg-gray-50 rounded-xl hover:bg-primary-50 transition-colors group"
                 >
                   <div className="w-12 h-12 bg-primary-100 rounded-xl flex items-center justify-center group-hover:bg-primary-200 transition-colors">
@@ -126,7 +126,7 @@ export default function Kontakt() {
                     </svg>
                   </div>
                   <div>
-                    <p className="text-lg font-semibold text-primary-600 break-all">sauerundsoehne@t-online.de</p>
+                    <p className="text-lg font-semibold text-primary-600 break-all">info@example.com</p>
                     <p className="text-sm text-gray-500">Wir antworten innerhalb von 24h</p>
                   </div>
                 </a>
@@ -161,7 +161,7 @@ export default function Kontakt() {
                 <h2 className="text-2xl font-bold mb-6">Schreiben Sie uns</h2>
 
                 <form
-                  action="https://formsubmit.co/sauerundsoehne@t-online.de"
+                  action="https://formsubmit.co/info@example.com"
                   method="POST"
                   className="space-y-6"
                 >

@@ -49,7 +49,7 @@ export default function Danke() {
                 <span className="font-medium text-primary-600">04621 / 123 456 78</span>
               </a>
               <a
-                href="mailto:sauerundsoehne@t-online.de"
+                href="mailto:info@example.com"
                 className="flex items-center justify-center gap-3 p-4 bg-gray-50 rounded-xl hover:bg-primary-50 transition-colors"
               >
                 <svg className="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
