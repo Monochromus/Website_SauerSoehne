@@ -27,6 +27,10 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      {/* Development Banner */}
+      <div className="bg-yellow-500 text-yellow-900 text-center py-2 px-4 text-sm font-medium">
+        Diese Website befindet sich noch im Aufbau / Site under Development
+      </div>
       <ScrollToTop />
       <Header />
       <main className="flex-grow">

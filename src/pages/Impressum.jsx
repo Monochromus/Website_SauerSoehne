@@ -59,7 +59,7 @@ export default function Impressum() {
 
             <h2>Berufsbezeichnung und berufsrechtliche Regelungen</h2>
             <p>
-              Berufsbezeichnung: Gas- und Wasserinstallateur, Meisterbetrieb<br />
+              Berufsbezeichnung: Gas- und Wasserinstallateur<br />
               Zuständige Kammer: [Handwerkskammer Flensburg / Schleswig-Holstein]<br />
               Verliehen in: Deutschland
             </p>

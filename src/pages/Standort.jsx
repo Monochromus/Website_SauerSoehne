@@ -1,6 +1,5 @@
 import { useEffect } from 'react'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-import { Link } from 'react-router-dom'
 import 'leaflet/dist/leaflet.css'
 import L from 'leaflet'
 
@@ -178,33 +177,6 @@ export default function Standort() {
             ))}
           </div>
 
-          <p className="text-center text-gray-600 mt-10">
-            Ihr Ort ist nicht dabei? Kein Problem – fragen Sie uns einfach an!
-          </p>
-        </div>
-      </section>
-
-      {/* CTA */}
-      <section className="section-padding bg-primary-600 text-white">
-        <div className="container-custom text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Besuchen Sie uns!
-          </h2>
-          <p className="text-xl text-primary-100 mb-10 max-w-2xl mx-auto">
-            Vereinbaren Sie einen Termin für ein persönliches Beratungsgespräch
-            oder rufen Sie uns direkt an.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link to="/kontakt" className="btn-accent text-lg px-8 py-4">
-              Termin vereinbaren
-            </Link>
-            <a
-              href="tel:+4946212345678"
-              className="btn-secondary bg-transparent border-white text-white hover:bg-white hover:text-primary-600 text-lg px-8 py-4"
-            >
-              Jetzt anrufen
-            </a>
-          </div>
         </div>
       </section>
     </>

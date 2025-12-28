@@ -31,7 +31,7 @@ export default function Footer() {
               Von der Planung bis zur Umsetzung – alles aus einer Hand.
             </p>
             <p className="text-gray-500 mt-4 text-sm">
-              Ihr Meisterbetrieb für Sanitär, Heizung und Wärmepumpen in Schleswig-Holstein.
+              Ihr Gebäudeservice für Sanitär, Heizung und Wärmepumpen in Schleswig-Holstein.
             </p>
           </div>
 

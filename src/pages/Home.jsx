@@ -37,8 +37,8 @@ const trustElements = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
       </svg>
     ),
-    title: "Meisterbetrieb",
-    description: "Höchste Qualität durch qualifizierte Facharbeit"
+    title: "Gebäudeservice",
+    description: "Zuverlässige Arbeit durch erfahrene Fachkräfte"
   },
   {
     icon: (
@@ -47,7 +47,7 @@ const trustElements = [
       </svg>
     ),
     title: "Familienunternehmen",
-    description: "Tradition und Vertrauen seit Generationen"
+    description: "Persönliche Betreuung und kurze Wege"
   },
   {
     icon: (
@@ -65,8 +65,8 @@ const trustElements = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
       </svg>
     ),
-    title: "Wärmepumpen-Experten",
-    description: "Spezialisiert auf moderne Heiztechnologie"
+    title: "Wärmepumpen",
+    description: "Erfahrung mit moderner Heiztechnologie"
   }
 ]
 
@@ -105,7 +105,7 @@ export default function Home() {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": "Sauer&Söhne",
-      "description": "Meisterbetrieb für Sanitär, Heizung und Wärmepumpen in Schleswig-Holstein",
+      "description": "Gebäudeservice für Sanitär, Heizung und Wärmepumpen in Schleswig-Holstein",
       "image": "/images/allgemein/logo.png",
       "address": {
         "@type": "PostalAddress",
@@ -168,7 +168,7 @@ export default function Home() {
 
           {/* Subline */}
           <p className="text-lg md:text-xl lg:text-2xl text-gray-200 mb-12 max-w-3xl mx-auto animate-slide-up" style={{ animationDelay: '0.1s' }}>
-            Ihr Meisterbetrieb für Sanitär, Heizung und Wärmepumpen in Schleswig-Holstein
+            Ihr Gebäudeservice für Sanitär, Heizung und Wärmepumpen in Schleswig-Holstein
           </p>
 
           {/* CTA Buttons */}
@@ -198,10 +198,9 @@ export default function Home() {
               Willkommen bei <span className="text-primary-600">Sauer&Söhne</span>
             </h2>
             <p className="text-body text-xl leading-relaxed mb-6">
-              Als familiengeführter Meisterbetrieb stehen wir seit Jahren für erstklassige Handwerksarbeit
-              in den Bereichen Sanitär, Heizung und Wärmepumpen. Unsere Kunden schätzen unsere
-              Zuverlässigkeit, fachliche Kompetenz und die persönliche Betreuung von der ersten
-              Beratung bis zur finalen Umsetzung.
+              Seit 2023 sind wir als familiengeführter Gebäudeservice in den Bereichen Sanitär,
+              Heizung und Wärmepumpen für Sie da. Wir legen Wert auf Zuverlässigkeit und
+              persönliche Betreuung von der ersten Beratung bis zur Umsetzung.
             </p>
             <p className="text-body text-xl leading-relaxed">
               Ob Neubau, Sanierung oder Kundendienst – bei uns erhalten Sie alle Leistungen
@@ -251,9 +250,8 @@ export default function Home() {
               </h2>
               <p className="text-lg text-primary-100 mb-8 leading-relaxed">
                 Machen Sie sich unabhängig von steigenden Energiepreisen. Wärmepumpen nutzen
-                kostenlose Umweltenergie und senken Ihre Heizkosten nachhaltig. Als zertifizierte
-                Spezialisten begleiten wir Sie von der Beratung über die Fördermittelbeantragung
-                bis zur fachgerechten Installation.
+                Umweltenergie und können Ihre Heizkosten senken. Wir begleiten Sie von der
+                Beratung über die Fördermittelbeantragung bis zur Installation.
               </p>
               <ul className="space-y-3 mb-8">
                 {[
@@ -292,7 +290,7 @@ export default function Home() {
             Das sagen unsere <span className="text-primary-600">Kunden</span>
           </h2>
           <p className="text-body text-center max-w-2xl mx-auto mb-16">
-            Überzeugen Sie sich von unserer Arbeit – durch die Stimmen zufriedener Kunden.
+            Was unsere Kunden über die Zusammenarbeit mit uns sagen.
           </p>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -345,21 +343,6 @@ export default function Home() {
             ))}
           </div>
 
-          {/* Certifications */}
-          <div className="mt-16 flex flex-wrap justify-center items-center gap-8">
-            <div className="flex items-center gap-3 bg-white px-6 py-4 rounded-xl shadow-sm">
-              <svg className="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
-              </svg>
-              <span className="font-semibold">Meisterbetrieb</span>
-            </div>
-            <div className="flex items-center gap-3 bg-white px-6 py-4 rounded-xl shadow-sm">
-              <svg className="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-              </svg>
-              <span className="font-semibold">Innungsmitglied</span>
-            </div>
-          </div>
         </div>
       </section>
 

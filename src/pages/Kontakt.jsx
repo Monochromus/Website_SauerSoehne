@@ -153,20 +153,6 @@ export default function Kontakt() {
                 </div>
               </div>
 
-              {/* Response Promise */}
-              <div className="p-6 bg-primary-50 rounded-xl border border-primary-100">
-                <div className="flex items-start gap-4">
-                  <svg className="w-8 h-8 text-primary-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                  <div>
-                    <h4 className="font-semibold text-primary-900 mb-1">Schnelle Antwort</h4>
-                    <p className="text-primary-700 text-sm">
-                      Wir melden uns innerhalb von 24 Stunden bei Ihnen zurück.
-                    </p>
-                  </div>
-                </div>
-              </div>
             </div>
 
             {/* Contact Form */}
